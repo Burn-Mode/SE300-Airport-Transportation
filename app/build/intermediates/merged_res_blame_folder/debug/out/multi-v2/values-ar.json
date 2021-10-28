@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\Users\\nicol\\Documents\\GitHub\\SE300-Airport-Transportation\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-ar\\values-ar.xml",
+            "outputFile": "C:\\Users\\nicol\\AndroidStudioProjects\\SE300-Airport-Transportation-ChanChito\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-ar\\values-ar.xml",
             "map": [
                 {
                     "source": "C:\\Users\\nicol\\.gradle\\caches\\transforms-3\\04c41a622b11bbd1762f8b6dda91ff26\\transformed\\jetified-play-services-basement-17.0.0\\res\\values-ar\\values.xml",

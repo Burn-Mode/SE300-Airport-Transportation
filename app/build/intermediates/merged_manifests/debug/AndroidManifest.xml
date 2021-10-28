@@ -33,6 +33,9 @@
         android:testOnly="true"
         android:theme="@style/Theme.TestApplication" >
         <activity
+            android:name="com.example.testapplication.RideShare"
+            android:exported="false" />
+        <activity
             android:name="com.example.testapplication.MainActivity"
             android:exported="true" >
             <intent-filter>

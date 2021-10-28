@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\Users\\nicol\\Documents\\GitHub\\SE300-Airport-Transportation\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-night-v8\\values-night-v8.xml",
+            "outputFile": "C:\\Users\\nicol\\AndroidStudioProjects\\SE300-Airport-Transportation-ChanChito\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-night-v8\\values-night-v8.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\nicol\\Documents\\GitHub\\SE300-Airport-Transportation\\app\\src\\main\\res\\values-night\\themes.xml",
+                    "source": "C:\\Users\\nicol\\AndroidStudioProjects\\SE300-Airport-Transportation-ChanChito\\app\\src\\main\\res\\values-night\\themes.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
