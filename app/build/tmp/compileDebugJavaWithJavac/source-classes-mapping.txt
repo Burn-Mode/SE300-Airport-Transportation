@@ -1,4 +1,4 @@
-com/example/myapplication/BuildConfig.java
- com.example.myapplication.BuildConfig
-com/example/myapplication/MainActivity.java
- com.example.myapplication.MainActivity
+com/example/testapplication/MainActivity.java
+ com.example.testapplication.MainActivity
+com/example/testapplication/BuildConfig.java
+ com.example.testapplication.BuildConfig
